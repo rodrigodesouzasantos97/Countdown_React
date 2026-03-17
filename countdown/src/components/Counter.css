@@ -1,0 +1,21 @@
+#counter {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+#counter p {
+  font-size: 4rem;
+  background-color: #1f1f1f;
+  padding: 1rem;
+  min-width: 140px;
+  font-weight: bold;
+  border-radius: 10px;
+  text-shadow: 1.5px 1.5px #000;
+}
+
+#counter h3 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  text-shadow: 1.5px 1.5px #000;
+}
